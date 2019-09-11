@@ -1,2 +1,6 @@
 this is file one
+<<<<<<< HEAD
 file changed on hotfix branch
+=======
+this is in future branch
+>>>>>>> future_branch1
